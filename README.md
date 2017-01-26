@@ -2,6 +2,6 @@
 # Splash Wars
 All of Splash Wars bugs and the full changelog are tracked here.
 
-## [1.0.0] - 2017-01-25
+## [beta1.0.0] - 2017-01-25
 ### Features
 - We now have a public changelog and issue tracking system, right here on Github! :tada:
